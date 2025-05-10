@@ -1,5 +1,8 @@
+# 🔐 Cryptography & Network Security Book Collection
 
-# Cryptography and Network Security - Book Collection
+This repository contains a set of essential textbooks and learning resources covering the fundamental and advanced topics in Cryptography, Network Security, and Information Security.
+
+## 📘 Book List
 
 ## 1. [Cryptography and Network Security: Principles and Practice](./Cryptography_and_Network_Security_William_Stallings.pdf)  
 **Author:** William Stallings  
