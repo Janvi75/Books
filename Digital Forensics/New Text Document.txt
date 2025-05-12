@@ -1,0 +1,35 @@
+Sure! Here's your updated `README.md` styled similarly to your **Cryptography & Network Security Book Collection**, but tailored for your **Digital Forensics** books:
+
+---
+
+# 🕵️‍♂️ Digital Forensics Book Collection
+
+This repository contains a set of essential textbooks and practical resources covering foundational and advanced topics in **Digital Forensics**, **Network Investigations**, and **Incident Response**.
+
+---
+
+## 📘 Book List
+
+1. **The Basics of Digital Forensics (Second Edition)**
+   **Author:** John Sammons
+   Introduces the core concepts of digital forensics, evidence handling, legal considerations, and investigative procedures. Ideal for students and entry-level professionals.
+
+2. **Practical Digital Forensics**
+   **Author:** Richard Boddington
+   A hands-on guide to digital forensics covering analysis tools, forensic imaging, case studies, and investigative strategies used in real-world environments.
+
+3. **Network Forensics**
+   **Authors:** Sherri Davidoff, Jonathan Ham
+   Focuses on the detection, analysis, and investigation of network-based threats. Includes techniques for capturing and examining network traffic during cyber incidents.
+
+---
+
+📄 **Notes**
+
+* All materials are in **PDF format**.
+* This collection is intended strictly for **educational and research purposes**.
+* Ensure you comply with all applicable **copyright laws** and **licensing agreements** in your region.
+
+---
+
+Would you like to include cover images or categorize by topic level (e.g., beginner, intermediate, advanced)?
