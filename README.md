@@ -20,7 +20,7 @@ Covers essential concepts and advanced topics in networking, including:
 - Network protocols (HTTP, FTP, DNS, etc.)
 - Network security and architecture
 
-### 🕵️ [Digital Forensics/](/Digital Forensics)
+### 🕵️ [Digital Forensics/](<Digital Forensics/>)
 Focused on the investigation of digital crimes and forensic analysis. Topics include:
 - Evidence acquisition and handling
 - Forensic tools and frameworks
