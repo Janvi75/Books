@@ -13,14 +13,14 @@ Resources on the science of encoding and decoding information. Perfect for learn
 - Key management strategies
 - Cryptographic protocols and secure communication
 
-### 🌐 Computer Network/
+### 🌐 [Computer Network/](/ComputerNetwork)
 Covers essential concepts and advanced topics in networking, including:
 - OSI and TCP/IP models
 - Routing and switching
 - Network protocols (HTTP, FTP, DNS, etc.)
 - Network security and architecture
 
-### 🕵️ Digital Forensics/
+### 🕵️ [Digital Forensics/](/Digital Forensics)
 Focused on the investigation of digital crimes and forensic analysis. Topics include:
 - Evidence acquisition and handling
 - Forensic tools and frameworks
