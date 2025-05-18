@@ -27,6 +27,13 @@ Focused on the investigation of digital crimes and forensic analysis. Topics inc
 - Incident response and malware analysis
 - Data recovery techniques
 
+### 🦠 [Malware Analysis/](./Malware%20Analysis/)
+Delves into identifying, dissecting, and understanding malicious software. Ideal for those interested in:
+- Static and dynamic malware analysis
+- Reverse engineering techniques
+- Exploit development and obfuscation
+- Real-world malware case studies and detection methods
+
 ---
 
 ## 🚀 Happy Learning!
